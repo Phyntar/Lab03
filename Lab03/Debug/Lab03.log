@@ -1,2 +1,4 @@
 ﻿  Lab03.cpp
+c:\users\compu\desktop\lab03\lab03\lab03\lab03.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\compu\desktop\lab03\lab03\lab03\lab03.cpp(50): warning C4305: '+=': truncation from 'double' to 'float'
   Lab03.vcxproj -> C:\Users\Compu\Desktop\Lab03\Lab03\Debug\Lab03.exe
