@@ -1,6 +1,6 @@
 # Lab03
 
-# Worked with Jon Cauldwell, Matt McMenamin, James Schuchardt
+# Worked with Jon Cauldwell, Matt McMenamin, James Schuchardt, Carlton Wilcox
 2: Overflow Occurs at n=256 overflow can be detected my making sure the sum is never negative
 3: Overflow occurs at n=65,536 overflow can be detected my making sure the sum is never negative
 4: Overflow does not occur it instead starts returning "inf" at 35
